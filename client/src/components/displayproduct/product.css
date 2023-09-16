@@ -1,0 +1,20 @@
+/* Add this new CSS class */
+.card-wrapper {
+    transition: transform 0.3s ease;
+}
+
+/* Apply hover effect on the card-wrapper */
+.card-wrapper:hover {
+    transform: translateY(-10px);
+    /* Add any additional styling for the hover effect here */
+}
+/* Add this new CSS class */
+.card-wrapper {
+    transition: transform 0.3s ease;
+}
+
+/* Apply hover effect on the card-wrapper */
+.card-wrapper:hover {
+    transform: translateY(-10px);
+    /* Add any additional styling for the hover effect here */
+}
